@@ -15,6 +15,20 @@ projects[] = token
 projects[] = lightbox2
 projects[] = menutrails
 projects[] = nodeorder
+projects[] = transliteration
+projects[] = context
+projects[] = features
+projects[] = panels
+projects[] = ctools
+
+projects[] = i18n
+projects[] = l10n_client
+
+projects[] = logintoboggan
+
+projects[seasoncms][type] = "profile"
+projects[seasoncms][download][type] = "get"
+projects[seasoncms][download][url] = "s93-dev.season.es/seasoncms/profiles/season.tar.gz"
 
 libraries[tinymce][download][type] = "get"
 libraries[tinymce][download][url] = "http://downloads.sourceforge.net/project/tinymce/TinyMCE/3.2.7/tinymce_3_2_7.zip"
@@ -37,8 +51,6 @@ projects[] = masquerade
 projects[] = taxonomy_manager
 projects[] = taxonomy_menu
 projects[] = backup_migrate
-projects[] = features
-projects[] = context
 
 projects[] = webform
 
@@ -48,6 +60,8 @@ projects[] = pathauto
 projects[] = globalredirect
 projects[] = nodewords
 projects[] = xmlsitemap
+
+projects[] = es
 
 projects[] = blueprint
 projects[] = rootcandy
