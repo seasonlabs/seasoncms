@@ -39,7 +39,7 @@ function seasoncms_profile_modules() {
     // Context
     'context', 'context_ui',
     // Date
-    'date_api', 'date_timezone',
+    //'date_api', 'date_timezone',
     // Features
     'features',
     // Image
@@ -49,7 +49,7 @@ function seasoncms_profile_modules() {
     // Transliteration
     'transliteration',
     'pathauto',
-    'logintoboggan',
+    //'logintoboggan',
     'nodewords',
     'taxonomy_manager',
     'wysiwyg'
