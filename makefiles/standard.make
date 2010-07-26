@@ -20,6 +20,7 @@ projects[] = context
 projects[] = features
 projects[] = panels
 projects[] = ctools
+projects[] = captcha
 
 projects[] = i18n
 projects[] = l10n_client

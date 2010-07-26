@@ -50,6 +50,7 @@ function seasoncms_profile_modules() {
     'transliteration',
     'pathauto',
     //'logintoboggan',
+    'captcha',
     'nodewords',
     'taxonomy_manager',
     'wysiwyg'
