@@ -14,7 +14,7 @@ projects[] = imageapi
 projects[] = token
 projects[] = lightbox2
 projects[] = menutrails
-projects[] = nodeorder
+projects[] = nodequeue
 projects[] = transliteration
 projects[] = context
 projects[] = features
@@ -36,7 +36,7 @@ projects[seasoncms][download][url] = "s93-dev.season.es/seasoncms/profiles/seaso
 #libraries[tinymce][download][directory_name] = tinymce
 
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.3.1/ckeditor_3.3.1.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.tar.gz"
 libraries[ckeditor][download][directory_name] = ckeditor
 
 projects[] = wysiwyg
