@@ -5,6 +5,7 @@ projects[] = drupal
 projects[] = cck
 projects[] = views
 projects[] = filefield
+projects[] = filefield_sources
 projects[] = imagefield
 projects[] = link
 projects[] = email
