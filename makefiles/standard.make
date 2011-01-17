@@ -37,7 +37,7 @@ projects[seasoncms][download][url] = "s93-dev.season.es/seasoncms/profiles/seaso
 #libraries[tinymce][download][directory_name] = tinymce
 
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5/ckeditor_3.5.tar.gz"
 libraries[ckeditor][download][directory_name] = ckeditor
 
 projects[] = wysiwyg
@@ -52,10 +52,6 @@ projects[] = insert
 #libraries[jquery_ui][destination] = modules/jquery_ui
 
 projects[] = admin
-projects[] = admin_menu
-projects[] = adminrole
-projects[] = masquerade
-projects[] = taxonomy_manager
 projects[] = taxonomy_menu
 projects[] = backup_migrate
 
@@ -66,10 +62,8 @@ projects[] = boost
 projects[] = pathauto
 projects[] = globalredirect
 projects[] = nodewords
-projects[] = xmlsitemap
 
 projects[] = es
 
-projects[] = blueprint
-projects[singular][location] = "http://code.developmentseed.org/fserver"
-projects[tao][location] = "http://code.developmentseed.org/fserver"
+projects[] = fusion
+projects[] = skinr
