@@ -22,6 +22,7 @@ projects[] = features
 projects[] = panels
 projects[] = ctools
 projects[] = captcha
+projects[] = simpletest
 
 projects[] = i18n
 projects[] = l10n_client
