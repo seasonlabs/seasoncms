@@ -51,6 +51,11 @@ projects[pathauto][version] = 1.2
 projects[pathauto][subdir] = "contrib"
 projects[chosen][version] = 1.x-dev
 projects[chosen][subdir] = "contrib"
+projects[transliteration][version] = 3.1
+projects[transliteration][subdir] = contrib
+projects[wysiwyg][version] = 2.2
+projects[wysiwyg][subdir] = contrib
+
 
 ; Internationalization
 projects[variable][version] = "2.x-dev"
